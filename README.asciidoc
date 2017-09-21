@@ -1,0 +1,8 @@
+= Past Meetups
+
+== September 20th, 2017 https://www.meetup.com/KansasCityJUG/events/241602163/[Machine Learning Exposed: The Fundamentals]
+
+* https://github.com/kcjug/JavaNewsSeptember/blob/master/Java%20News%20September.pdf[Java News]
+* Presenters http://twitter.com/JavaFXpert[James Weaver]
+* https://slides.com/javafxpert/machine-learning-exposed-the-fundamentals[Slides]
+* https://github.com/JavaFXpert/tic-tac-toe-rl[Source Code]
